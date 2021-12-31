@@ -1,0 +1,1 @@
+enum RegScrnEnum { login, signup }
